@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 282.96 195.23">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: rgba(255,255,255,0.4);
+        stroke-miterlimit: 10;
+        stroke-width: .15px;
+      }
+
+      .cls-3 {
+        fill: url(#pattern_journal);
+      }
+
+      .cls-4 {
+        fill: #e52424;
+      }
+    </style>
+    <pattern id="pattern_journal" data-name="pattern journal" x="0" y="0" width="20.78" height="13.52" patternTransform="translate(-1459.31 -498.92)" patternUnits="userSpaceOnUse" viewBox="0 0 20.78 13.52">
+      <g>
+        <rect class="cls-2" width="20.78" height="13.52"/>
+        <polygon class="cls-1" points=".14 6.76 10.39 .09 20.64 6.76 10.39 13.43 .14 6.76"/>
+        <line class="cls-1" x1="10.39" y1=".09" x2="10.39" y2="13.43"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="Livello_5" data-name="Livello 5">
+    <rect class="cls-4" y="0" width="282.96" height="195.23" rx="7.66" ry="7.66"/>
+    <rect class="cls-3" y="0" width="282.96" height="195.23" rx="7.66" ry="7.66"/>
+  </g>
+</svg>
