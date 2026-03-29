@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.98 22.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #e52424;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <g id="luoghi">
+    <g>
+      <circle class="cls-1" cx="11.49" cy="11.49" r="10.99"/>
+      <text class="cls-2" transform="translate(8.38 15.43)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>
