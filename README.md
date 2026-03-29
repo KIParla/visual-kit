@@ -21,7 +21,7 @@ You can:
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the .
 
 ## About
 
