@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.3 25.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e30a18;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e30a18;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+    </style>
+  </defs>
+  <g id="KIPARLA">
+    <g>
+      <circle class="cls-1" cx="4.6" cy="4.6" r="4.6"/>
+      <path class="cls-1" d="M4.6,10.1l6.12,6.1c.24.24.58.35.91.3h0c.69-.1,1.29-.55,1.57-1.19h0c.09-.21.09-.45,0-.66l-3.64-7.89-.19.38c-.74,1.48-2.14,2.52-3.78,2.79l-1,.16Z"/>
+      <path class="cls-2" d="M11.65,15.61s1.08.05,2.53,1.36.16,2.88,0,4.67,1.87,3.52,1.87,3.52"/>
+    </g>
+  </g>
+</svg>
