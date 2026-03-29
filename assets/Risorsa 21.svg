@@ -2,9 +2,11 @@
 <svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38.26 36.66">
   <defs>
     <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat&amp;display=swap');
+
       .cls-1 {
         fill: #e52424;
-        font-family: StylusBT, 'Stylus BT';
+        font-family: 'Caveat', cursive;
         font-size: 9px;
       }
 
