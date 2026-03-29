@@ -21,7 +21,7 @@ You can:
 
 ## License
 
-This project is released under the .
+This project is released under [CC-BY-NC-SA](LICENSE).
 
 ## About
 
