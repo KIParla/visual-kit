@@ -24,19 +24,24 @@ Icons representing conversation contexts and registers.
 - `interview` — interview context
 - `lecture` — academic lecture
 
+Each icon is available in `-red` and `-white` variants.
+
 ### `assets/places/`
 
 Geographic and spatial icons.
 
-- `italy.svg`, `italy-question.svg` — Italian territory outline
+- `italy` / `italy-question` — Italian territory outline, plain and with question mark overlay
 - `inside` / `outside` — private vs public setting markers
+
+Each icon is available in `-red` and `-white` variants.
 
 ### `assets/layouts/`
 
 Reusable layout and background components.
 
-- `background.svg` — decorative background pattern
-- `layout-1.svg`, `layout-2.svg`, `layout-3.svg` — card layout templates
+- `background` / `layout-1` / `layout-2` / `layout-3` — card layout templates
+
+Each layout is available in a standard and `-inverted` variant (red background, white accents).
 
 ## Design Tokens
 
