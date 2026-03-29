@@ -8,6 +8,19 @@ A reusable collection of vector assets developed within the KIParla research pro
 * Illustrations
 * Components
 
+## Design Tokens
+
+The project includes reusable CSS variables for:
+
+- color palette
+- typography
+- spacing
+- border radius
+- shadows
+- layout
+
+See [style/tokens.css](style/tokens.css)
+
 ## Format
 
 All assets are provided in SVG.
