@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.13 24.85">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #e52421;
-      }
-    </style>
-  </defs>
-  <g id="Livello_5" data-name="Livello 5">
-    <g>
-      <path class="cls-1" d="M12.98,20.72h-6.3v-6.3h6.3v6.3ZM2.38,24.85h14.38v-10.38h5.62v10.38h4.6v-10.38L14.68,4.94,2.38,14.89v9.96Z"/>
-      <polygon class="cls-1" points="1.45 13.79 14.68 2.89 28.77 13.79 30.13 11.91 24.78 7.66 24.78 2.22 21.68 2.18 21.72 5.43 14.68 0 0 12 1.45 13.79"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="Livello_2" data-name="Livello 2" viewBox="0 0 30.13 24.85"><defs><style>.cls-1{fill:#e52421}</style></defs><g id="Livello_5" data-name="Livello 5"><path d="M12.98 20.72h-6.3v-6.3h6.3zm-10.6 4.13h14.38V14.47h5.62v10.38h4.6V14.47l-12.3-9.53-12.3 9.95z" class="cls-1"/><path d="m1.45 13.79 13.23-10.9 14.09 10.9 1.36-1.88-5.35-4.25V2.22l-3.1-.04.04 3.25L14.68 0 0 12z" class="cls-1"/></g></svg>
