@@ -1,0 +1,5 @@
+- [ ] punto interrogativo
+- [ ] logo kiparla
+- [ ] logo treebank
+- [ ] cuffie
+- [ ] riga elenco
